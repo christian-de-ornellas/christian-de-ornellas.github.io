@@ -200,3 +200,21 @@ a:hover, a:focus, a:active {
 .m-interval{
   margin: 2rem 0;
 }
+
+/*translate*/
+
+#google_translate_element {
+  display: none!important;
+}
+
+.translate{
+  list-style: none;
+  display: flex;
+}
+.translate li{
+  padding: 0 0.2rem;
+}
+.translate img{
+  width: 20px;
+  height: 20px;
+}
