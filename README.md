@@ -10,12 +10,12 @@ implementação do sistema. Tenho facilidade para trabalhar tanto com front-end 
 sou apaixonado por tecnologias e gosto de resolver os problemas dos usuários.
 ## Habilidades
 
-**FRONT END:** HTML / CSS / JAVASCRIPT
-**BACK END:** PHP / JAVA / AJAX / SQL
-**DATABASE:** MYSQL / SQL SERVER
-**FRAMEWORKS:** LARAVEL / CODEIGNITER / JQUERY / BOOTSTRAP / MATERIALIZE / VUEJS /
+**FRONT END:** HTML / CSS / JAVASCRIPT / BOOTSTRAP / MATERIALIZE / REACTJS /
+**BACK END:** NODE.JS 
+**DATABASE:** MYSQL / SQL SERVER / MONGODB /POSTGREE
+**MOBILE:** REACT NATIVE / FLUTTER 
 DATATABLE /
-**FERRAMENTAS:** GIT / GITHUB / BITBUCKET / NPM / YARN / API / WEB SERVICES
+**FERRAMENTAS:** GIT / GITHUB / BITBUCKET / NPM / YARN 
 **MÉTODO ÁGIL:** SCRUM
 
 ## Formação
